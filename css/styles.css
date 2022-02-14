@@ -85,6 +85,10 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
+.land_svg {
+  margin-bottom: -5px;
+}
+
 a:hover {
   color: #EAF6F6;
 }
