@@ -11,7 +11,7 @@ p {
 }
 
 .top-container {
-  background-color: #E4F9F5;
+  background-color: #e0ebe8;
   padding-top: 100px;
   position: relative;
 }
@@ -85,6 +85,10 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
+.land_svg {
+  margin-bottom: -5px;
+}
+
 a:hover {
   color: #EAF6F6;
 }
@@ -97,7 +101,7 @@ hr {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #c5ded7;
   padding: 50px 0 20px;
   margin-top: 10%;
 }
@@ -123,7 +127,7 @@ hr {
 }
 
 .btn {
-  background: #11CDD4;
+  background: #45b29a;
   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
